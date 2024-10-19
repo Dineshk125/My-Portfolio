@@ -91,12 +91,12 @@ export const TRAINING = [
     image: trainings,
 
     training1:"1  Machine Learning for Engineering and Science  Applications from NPTEL.",
-    training2:"5. Machine Learning using Python from Grras [Certificate No. - Grras/214808]",
-    training3:"2. Data Science using Python from Grras [Grras/214356]",
-    training4:"6. MERN Stack Fundamentals from Great Learning.",
-    training5:"3. Participation Certification in HACK JKLU v3.0, Jaipur.",
-    training6:"7. Cloud Computing from NPTEL.",
-    training7:"4. Red Hat® Certified System Administrator (RHCSA®) [CERTIFICATION ID: 230-071-110]",
+    training2:"2. Machine Learning using Python from Grras [Certificate No. - Grras/214808]",
+    training3:"3. Data Science using Python from Grras [Grras/214356]",
+    training4:"4. MERN Stack Fundamentals from Great Learning.",
+    training5:"5. Participation Certification in HACK JKLU v3.0, Jaipur.",
+    training6:"6. Cloud Computing from NPTEL.",
+    training7:"7. Red Hat® Certified System Administrator (RHCSA®) [CERTIFICATION ID: 230-071-110]",
     training8:"8. Introduction to MongoDB for students.",
   },
 ]
