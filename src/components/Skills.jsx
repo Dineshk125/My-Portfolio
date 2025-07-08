@@ -30,7 +30,6 @@ const Skills = () => {
                 className="mb-20 rounded"
               />
             </motion.div> */}
-            
             <motion.div
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: 100 }}
@@ -90,7 +89,7 @@ const Skills = () => {
               <p className="mb-4 text-2xl text-neutral-400">
                 {Traininge.training6}
               </p>
-            </motion.div>   
+            </motion.div>
             <motion.div
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: 100 }}
@@ -109,6 +108,86 @@ const Skills = () => {
             >
               <p className="mb-4 text-2xl text-neutral-400">
                 {Traininge.training8}
+              </p>
+            </motion.div>{" "}
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training9}
+              </p>
+            </motion.div>{" "}
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training10}
+              </p>
+            </motion.div>{" "}
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training11}
+              </p>
+            </motion.div>{" "}
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training12}
+              </p>
+            </motion.div>{" "}
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training13}
+              </p>
+            </motion.div>{" "}
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training14}
+              </p>
+            </motion.div>
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training15}
+              </p>
+            </motion.div>
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: 100 }}
+              transition={{ duration: 1 }}
+              className="w-full max-w-xl lg:w-3/4"
+            >
+              <p className="mb-4 text-2xl text-neutral-400">
+                {Traininge.training16}
               </p>
             </motion.div>
           </div>

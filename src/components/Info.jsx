@@ -1,6 +1,6 @@
 import React from "react";
 import { INFO_CONTENT } from "../constants";
-import ProfilePic from "../assets/Dinesh.png.jpg";
+import ProfilePic from "../assets/dinesh.jpg";
 import { motion, transform } from "framer-motion";
 
 const container = (delay) => ({
@@ -33,7 +33,7 @@ const Info = () => {
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500
              bg-clip-text text-3xl tracking-tight text-transparent"
             >
-              Front-End Developer Intern
+              Full Stack Developer Intern
             </motion.span>
             <motion.p
               variants={container(1)}
